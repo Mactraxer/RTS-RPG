@@ -53,12 +53,14 @@
   <ItemGroup>
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\CreatKnigth.cs" />
+     <Compile Include="Assets\Scripts\DevilAnimationAttack.cs" />
      <Compile Include="Assets\Scripts\DevilStat.cs" />
      <Compile Include="Assets\Scripts\KnigthAnimation.cs" />
      <Compile Include="Assets\Scripts\KnigthAnimator1.cs" />
      <Compile Include="Assets\Scripts\KnigthSta.cs" />
      <Compile Include="Assets\Scripts\Stats.cs" />
      <Compile Include="Assets\Scripts\SysLvl.cs" />
+     <Compile Include="Assets\Scripts\SystemFigthDevil.cs" />
      <Compile Include="Assets\Scripts\SystemFigthKnigth.cs" />
      <Compile Include="Assets\SysStats.cs" />
  <Reference Include="UnityEngine.UI">

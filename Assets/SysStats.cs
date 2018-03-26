@@ -24,8 +24,8 @@ public class SysStats : MonoBehaviour {
 	void DevilStats(GameObject obj){
 
 		Script = obj.GetComponent<Stats> ();
-		Script.HealthPoint = 2;
-		Script.AttackStr=5;
+		Script.HealthPoint = 20;
+		Script.AttackStr=4;
 		Script.AttackSpeed=0.2f;
 		Script.Expirience=0;
 		Script.Level=1;
