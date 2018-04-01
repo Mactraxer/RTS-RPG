@@ -2,14 +2,15 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CreatKnigth.cs">
     <Files>
-      <File FileName="Assets\Scripts\CreatKnigth.cs" Line="37" Column="1" />
-      <File FileName="Assets\Scripts\SysLvl.cs" Line="27" Column="3" />
+      <File FileName="Assets\Scripts\CreatKnigth.cs" Line="3" Column="7" />
+      <File FileName="Assets\SysUnitsCont.cs" Line="18" Column="3" />
+      <File FileName="Assets\Scripts\SysLvl.cs" Line="14" Column="39" />
       <File FileName="Assets\Scripts\KnigthAnimator1.cs" Line="7" Column="2" />
-      <File FileName="Assets\Scripts\Stats.cs" Line="23" Column="3" />
-      <File FileName="Assets\SysStats.cs" Line="28" Column="21" />
-      <File FileName="Assets\Scripts\SystemFigthKnigth.cs" Line="30" Column="2" />
-      <File FileName="Assets\Scripts\SystemFigthDevil.cs" Line="35" Column="28" />
-      <File FileName="Assets\Scripts\DevilAnimationAttack.cs" Line="15" Column="49" />
+      <File FileName="Assets\Scripts\Stats.cs" Line="1" Column="1" />
+      <File FileName="Assets\SysStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SystemFigthKnigth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SystemFigthDevil.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DevilAnimationAttack.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

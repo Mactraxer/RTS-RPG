@@ -7,8 +7,7 @@ public class CreatKnigth : MonoBehaviour {
 	public GameObject Unit;
 	public Vector3 EnemyPosition;
 	public float Speed;
-	public GameObject[] Units=new GameObject[30];
-	public int Count=0;
+
 
 
 	public void Create (){

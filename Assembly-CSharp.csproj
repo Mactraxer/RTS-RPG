@@ -63,6 +63,7 @@
      <Compile Include="Assets\Scripts\SystemFigthDevil.cs" />
      <Compile Include="Assets\Scripts\SystemFigthKnigth.cs" />
      <Compile Include="Assets\SysStats.cs" />
+     <Compile Include="Assets\SysUnitsCont.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
